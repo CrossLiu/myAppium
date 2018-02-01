@@ -1,0 +1,2 @@
+package: name='com.weining.view.activity'
+launchable-activity: name='com.weining.backup.ui.activity.SplashActivity'
