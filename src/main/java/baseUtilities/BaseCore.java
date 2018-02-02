@@ -4,11 +4,7 @@ package baseUtilities;
 import java.net.URL;
 import java.io.File;
 import java.io.IOException;
-
 import org.openqa.selenium.remote.DesiredCapabilities;
-
-
-
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 //import io.appium.java_client.remote.MobileCapabilityType;

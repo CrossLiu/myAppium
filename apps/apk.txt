@@ -1,2 +1,6 @@
 package: name='com.weining.view.activity'
 launchable-activity: name='com.weining.backup.ui.activity.SplashActivity'
+
+  capabilities.setCapability("appPackage", "com.suneee.vacapp");
+  capabilities.setCapability("appActivity", ".ui.AppIntroduceActivity");
+
